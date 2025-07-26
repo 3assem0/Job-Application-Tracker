@@ -8,7 +8,8 @@ A modern and responsive React dashboard that helps users track their job applica
 
 ## 📸 Preview
 
-![Preview](./screenshot.png) <!-- Replace with actual image link or path -->
+<img width="797" height="651" alt="image" src="https://github.com/user-attachments/assets/bd03633b-09a7-46e5-87d2-47201af27865" />
+
 
 ---
 
