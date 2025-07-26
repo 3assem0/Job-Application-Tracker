@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { createContext, useContext, useReducer, useEffect, useState } from 'react';
 import { Plus, Briefcase, Calendar, FileText, Edit, Trash2, ArrowLeft, Download, Upload, Menu, X, Search, Filter, TrendingUp, Clock, CheckCircle, AlertCircle, Building, User, MapPin, DollarSign, Star, Eye, MoreVertical } from 'lucide-react';
 
